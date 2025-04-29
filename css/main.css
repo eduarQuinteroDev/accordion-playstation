@@ -16,6 +16,11 @@ h2 {
   font-size: 25px;
 }
 
+p {
+  font-family: "Gidole", sans-serif;
+  font-size: 13px;
+}
+
 body {
   height: 100vh;
   background: linear-gradient(135deg, #007BFF, #ffffff);
@@ -29,7 +34,7 @@ body {
   left: 50%;
   border-radius: 10px;
   transform: translate(-50%, -50%);
-  box-shadow: 0 0 10px 2px rgb(122, 121, 121);
+  box-shadow: 0 0 20px 5px rgb(122, 121, 121);
   background-color: white;
 }
 .main .main__titulo {
@@ -43,14 +48,14 @@ body {
 .main .main__titulo .main__titulo-principal {
   padding-left: 30px;
 }
-.main .main__total .main__contenido {
+.main .main__total .main__contenido .main__contenido-superior {
   display: flex;
   justify-content: space-between;
   border-bottom: 1px solid black;
   align-items: center;
   padding: 10px 0;
 }
-.main .main__total .main__contenido .fa-plus {
+.main .main__total .main__contenido .main__contenido-superior .fa-plus {
   display: flex;
   align-items: center;
   justify-content: center;
