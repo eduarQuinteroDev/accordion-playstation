@@ -19,6 +19,8 @@ h2 {
 p {
   font-family: "Gidole", sans-serif;
   font-size: 13px;
+  color: rgb(136, 134, 134);
+  font-weight: 700;
 }
 
 body {
