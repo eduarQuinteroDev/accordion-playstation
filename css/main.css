@@ -49,6 +49,9 @@ body {
 .main .main__titulo .main__titulo-principal {
   padding-left: 30px;
 }
+.main .main__total .main__contenido {
+  /* utilidades*/
+}
 .main .main__total .main__contenido .main__contenido-superior {
   display: flex;
   justify-content: space-between;
@@ -66,6 +69,17 @@ body {
   height: 30px;
   border-radius: 50%;
   cursor: pointer;
+}
+.main .main__total .main__contenido .main__contenido-inferior {
+  opacity: 1;
+  transition: height 0.7s linear;
+  transition: opacity 1s linear;
+}
+.main .main__total .main__contenido .oculto {
+  height: 0px;
+  opacity: 0;
+  overflow: hidden;
+  transition: opacity 0s linear;
 }
 
 /*# sourceMappingURL=main.css.map */
