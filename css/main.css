@@ -40,6 +40,7 @@ body {
 .main .main__titulo {
   display: flex;
   padding: 5px;
+  align-items: center;
 }
 .main .main__titulo .fa-playstation {
   color: #0874d2;
