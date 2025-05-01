@@ -1,4 +1,4 @@
-<h1 style="text-align: center">ACORDEON PLAYSTATION</h1>
+<h1 align=center>ACORDEON PLAYSTATION</h1>
 
 <br>
 
