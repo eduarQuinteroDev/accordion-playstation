@@ -3,7 +3,7 @@
 <br>
 
 
-<p style="font-size: 18px; text-align: center">
+<p align=center>
 Este proyecto muestra un acordeón de información respecto a un poco sobre la historia de Playstation <br> Para la realización del proyecto se usaron las siguiente tecnologias.
 </p>
 
