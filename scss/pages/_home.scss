@@ -48,13 +48,26 @@ body {
                     display: flex;
                     align-items: center;
                     justify-content: center;
-                    color: white;
-                    background-color: #0874d2;
+                    background-color: rgb(35, 34, 34);
                     width: 30px;
                     height: 30px;
                     border-radius: 50%;
                     cursor: pointer;
                 }
+
+                .simbolo1 {
+                    color: #ff6669;
+                }
+                .simbolo2 {
+                    color: #42e19e;
+                }
+                .simbolo3 {
+                    color: #f96efc;
+                }
+                .simbolo4 {
+                    color: #7bb4ee;
+                }
+
                 
             }
 

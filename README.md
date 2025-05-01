@@ -16,7 +16,7 @@ Este proyecto muestra un acordeón de información respecto a un poco sobre la h
 </p>
 
 <h2>Vista Escritorio</h2>
-<img src="images/resultado.png">
+<img src="images/vista-Desktop.jpeg">
 
 <h2>Vista Móvil</h2>
-<img src="images/resultado.png">
+<img src="images/vista-movil.jpeg">

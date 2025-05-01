@@ -65,12 +65,23 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: white;
-  background-color: #0874d2;
+  background-color: rgb(35, 34, 34);
   width: 30px;
   height: 30px;
   border-radius: 50%;
   cursor: pointer;
+}
+.main .main__total .main__contenido .main__contenido-superior .simbolo1 {
+  color: #ff6669;
+}
+.main .main__total .main__contenido .main__contenido-superior .simbolo2 {
+  color: #42e19e;
+}
+.main .main__total .main__contenido .main__contenido-superior .simbolo3 {
+  color: #f96efc;
+}
+.main .main__total .main__contenido .main__contenido-superior .simbolo4 {
+  color: #7bb4ee;
 }
 .main .main__total .main__contenido .main__contenido-inferior {
   opacity: 1;
@@ -82,6 +93,17 @@ body {
   opacity: 0;
   overflow: hidden;
   transition: opacity 0s linear;
+}
+
+@media all and (min-width: 480px) {
+  body .main {
+    width: 430px;
+  }
+}
+@media all and (min-width: 768px) {
+  body .main {
+    width: 500px;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */
